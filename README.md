@@ -1,2 +1,2 @@
 # maven-webapp
-Maven Webapp 22
+Maven Webapp 23
