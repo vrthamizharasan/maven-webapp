@@ -1,5 +1,5 @@
 #! /bin/bash
-echo "Testing started..."
+echo "Testing started...."
 sleep 10
 echo "Test completed"
 
